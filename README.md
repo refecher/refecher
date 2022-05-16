@@ -6,7 +6,7 @@
 <h3>Hi there 😁</h3>
 <br>
 <p>My name is Renata and I'm following my passion of becoming a Data Analyst. I was born and raised in Brazil and moved to the USA in 2021. I love spending time with my family and friends, learning, cooking and biking. I'm crazy about numbers and puzzles!</p>
-To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" href="#">Personal Portfolio</a>.
+To learn more about me, visit my <a target="_blank" rel="noopener noreferrer" href="https://refecher.herokuapp.com/">Personal Portfolio</a>.
 
 ##
 
